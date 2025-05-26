@@ -79,10 +79,14 @@ LondonBikeRides/
 ├── data/
 │   ├── london_bikes_final.xlsx
 │   └── london_merged.csv
+    └── london-bike-sharing-dataset.zip
+├── docs/
+│   └── Dashboard.png
+    └── Heatmap.png
+    └── MovingAverage.png
+    └── Weather.png 
 ├── script/
 │   └── main.py
-├── tableau/
-│   └── London Bike Rides - Moving Average and Heatmap.twbx
 ├── pyproject.toml
 ├── uv.lock
 └── .gitignore
@@ -93,17 +97,3 @@ LondonBikeRides/
 - [Датасет на Kaggle](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset)
 - [Документация UV](https://github.com/astral-sh/uv)
 - [Tableau Public Dashboard](https://public.tableau.com/views/LondonBikeSharingDataset_17480286695360/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-## 📝 TODO
-
-- [ ] Добавить скриншоты дашборда
-- [ ] Описать этапы EDA
-- [ ] Добавить инструкции по запуску в Tableau Public
-
-
-readme draft
-- clone rep
-- install uv
-- run uv sync
-- download kaggle dataset biker
-- uv run??
