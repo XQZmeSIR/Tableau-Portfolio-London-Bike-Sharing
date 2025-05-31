@@ -4,6 +4,7 @@
 
 
 ## 📘 О проекте
+https://public.tableau.com/views/LondonBikeSharingDataset_17480286695360/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Этот проект демонстрирует мои навыки работы с данными на примере анализа поездок на велосипедах в Лондоне.  
 
